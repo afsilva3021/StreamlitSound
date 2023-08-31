@@ -1,2 +1,2 @@
 # StreamlitSound
-Streamlit com como Player de audio
+Streamlit como Player de audio
